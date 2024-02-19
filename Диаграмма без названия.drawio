@@ -1,9 +1,225 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T11:01:46.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.807 YaBrowser/24.1.2.807 (beta) Yowser/2.5 Safari/537.36" version="23.1.5" etag="J4y07mMJd2AppIrmtgw7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T11:42:44.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.807 YaBrowser/24.1.2.807 (beta) Yowser/2.5 Safari/537.36" etag="PSY6-sixPS-AnYiSHGui" version="23.1.5" type="github">
   <diagram name="Страница — 1" id="-49Po7W55B7k_kpLhG0I">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-3" target="H5-Wbtc1Hm8tLWeKevhd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-3" value="Банкомат на ожидании" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-5" target="H5-Wbtc1Hm8tLWeKevhd-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-14" value="Пин-код введен" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;fontSize=12;" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-13">
+          <mxGeometry x="-0.4667" y="-1" relative="1" as="geometry">
+            <mxPoint x="61" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-5" value="Ожидание &lt;br&gt;Пин-Кода" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-10" value="Приём кредитной карты" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-11" target="H5-Wbtc1Hm8tLWeKevhd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="260.2105263157896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-26" value="Правильный Пин-код" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-24">
+          <mxGeometry x="0.0311" y="3" relative="1" as="geometry">
+            <mxPoint x="-74" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-11" value="Проверка&lt;br&gt;Пин-Кода" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-15" value="Пин-код неправильный" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="188" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-22" value="Карта кофискована" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-19">
+          <mxGeometry x="-0.0446" y="1" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-17" value="Конфискация&lt;br&gt;Кредитной карты" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-18" value="Пин-код введён неправильный&lt;br&gt;трижды&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-20" target="H5-Wbtc1Hm8tLWeKevhd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-20" value="Завершение&lt;br&gt;процессов" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-25" target="H5-Wbtc1Hm8tLWeKevhd-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="360.2105263157896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-32" value="Выбран перевод денег" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-28">
+          <mxGeometry x="-0.355" y="3" relative="1" as="geometry">
+            <mxPoint x="4" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190.52631578947376" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-34" value="Выбрано снятие денежных средств" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-29">
+          <mxGeometry x="-0.1761" y="3" relative="1" as="geometry">
+            <mxPoint x="-103" y="32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-25" target="H5-Wbtc1Hm8tLWeKevhd-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="350" />
+              <mxPoint x="475" y="350" />
+              <mxPoint x="475" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-56" value="Отмена выбора опций" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-55">
+          <mxGeometry x="0.4089" y="2" relative="1" as="geometry">
+            <mxPoint x="24" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-25" value="Ожидание выбора опции" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-31" target="H5-Wbtc1Hm8tLWeKevhd-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-57" value="Успешный перевод" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-45">
+          <mxGeometry x="-0.1337" y="1" relative="1" as="geometry">
+            <mxPoint x="-59" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="435" as="sourcePoint" />
+            <mxPoint x="660" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-31" target="H5-Wbtc1Hm8tLWeKevhd-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="400" />
+              <mxPoint x="510" y="310" />
+              <mxPoint x="700" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-59" value="Ошибка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-58">
+          <mxGeometry x="-0.5328" y="-2" relative="1" as="geometry">
+            <mxPoint x="28" y="-57" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-31" value="Обработка запроса на перевод денег&lt;br&gt;на карту" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-33" target="H5-Wbtc1Hm8tLWeKevhd-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="545.4736842105265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-33" target="H5-Wbtc1Hm8tLWeKevhd-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-53" value="Ошибка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-52">
+          <mxGeometry x="-0.8304" y="-1" relative="1" as="geometry">
+            <mxPoint x="3" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-33" value="Обработка на снятие денежных средств" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="520" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-36" target="H5-Wbtc1Hm8tLWeKevhd-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="545.4736842105265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-39" value="Выбор нужен ли чек" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-38">
+          <mxGeometry x="0.2206" relative="1" as="geometry">
+            <mxPoint x="-90" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-54" value="Наличные выданы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-42">
+          <mxGeometry x="-0.2855" y="3" relative="1" as="geometry">
+            <mxPoint x="-13" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-36" target="H5-Wbtc1Hm8tLWeKevhd-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="851" y="545" />
+              <mxPoint x="851" y="70" />
+              <mxPoint x="480" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-63" value="Недостаточно наличных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-62">
+          <mxGeometry x="0.462" y="2" relative="1" as="geometry">
+            <mxPoint x="-82" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-36" value="Выдача наличных" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="525" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-37" value="Снятие разрешено" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="520.0047368421054" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-41" target="H5-Wbtc1Hm8tLWeKevhd-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-48" value="Чек напечатан" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-47">
+          <mxGeometry x="-0.4586" y="-3" relative="1" as="geometry">
+            <mxPoint x="2" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-41" value="Печать чека" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5-Wbtc1Hm8tLWeKevhd-43" target="H5-Wbtc1Hm8tLWeKevhd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-61" value="Карта возвращена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="H5-Wbtc1Hm8tLWeKevhd-60">
+          <mxGeometry x="0.0709" y="-2" relative="1" as="geometry">
+            <mxPoint x="58" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-43" value="Возврат карты" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5-Wbtc1Hm8tLWeKevhd-50" value="Выбор нужен ли чек" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="450.00158639382846" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
